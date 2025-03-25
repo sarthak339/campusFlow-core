@@ -16,7 +16,7 @@ Management Staff: Handle administrative staff records.
 
 RESTful APIs: Exposes APIs for integration with frontend or other services.
 
-Database Integration: Uses H2/MySQL database.
+Database Integration: Uses H2/postgres database.
 
 Pagination & Sorting: Implemented for large datasets.
 
@@ -26,7 +26,7 @@ Exception Handling: Custom exceptions for better API responses.
 
 Backend: Java, Spring Boot, Spring MVC, Spring Data JPA
 
-Database: H2 / MySQL
+Database: H2 / postgres
 
 Build Tool: Maven
 
@@ -59,7 +59,7 @@ Java 17+
 
 Maven
 
-MySQL (if not using H2)
+postgres (if not using H2)
 
 Steps to Run Locally
 
@@ -68,7 +68,7 @@ Clone the repository:
 git clone <repo-url>
 cd sms-spring-mvn
 
-Configure application.properties (H2 default or MySQL):
+Configure application.properties (H2 default or postgres):
 
 spring.application.name=sms
 spring.datasource.url = jdbc:postgresql://localhost:5432/sms_core
