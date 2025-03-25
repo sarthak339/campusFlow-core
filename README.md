@@ -117,16 +117,4 @@ PUT /api/students/{id} → Update student details
 
 DELETE /api/students/{id} → Remove student
 
-🧪 Running Tests
 
-Run unit and integration tests using:
-
-mvn test
-
-📜 License
-
-This project is licensed under the MIT License.
-
-🤝 Contributing
-
-Feel free to submit issues or pull requests!
