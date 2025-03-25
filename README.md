@@ -81,9 +81,6 @@ Build and run the application:
 mvn clean install
 mvn spring-boot:run
 
-Access API documentation (Swagger):
-
-http://localhost:8080/swagger-ui/
 
 📡 API Endpoints
 
