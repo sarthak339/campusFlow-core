@@ -1,3 +1,10 @@
+![Alt Text](images/home-page-campus-flow.png)
+![Alt Text](images/loginpage.png)
+![Alt Text](images/school_admin_panel.png)
+
+
+
+
 School Management System (SMS) - Spring Boot
 
 📌 Overview
